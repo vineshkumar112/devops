@@ -1,2 +1,2 @@
 morining
-class is  god
+class is  
